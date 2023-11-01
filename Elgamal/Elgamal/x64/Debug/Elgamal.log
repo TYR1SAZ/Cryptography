@@ -1,0 +1,3 @@
+﻿  Elgamal.cpp
+E:\PSU\Items\Cryptography\Elgamal\Elgamal\Elgamal.cpp(266,21): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Elgamal.vcxproj -> E:\PSU\Items\Cryptography\Elgamal\x64\Debug\Elgamal.exe
