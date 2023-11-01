@@ -1,0 +1,6 @@
+﻿  RSA.cpp
+E:\PSU\Items\Cryptography\RSA\RSA\RSA.cpp(107,8): warning C4244: =: преобразование "uint64_t" в "int", возможна потеря данных
+E:\PSU\Items\Cryptography\RSA\RSA\RSA.cpp(109,9): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+E:\PSU\Items\Cryptography\RSA\RSA\RSA.cpp(173,25): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\PSU\Items\Cryptography\RSA\RSA\RSA.cpp(181,16): warning C4552: "<<": результат выражения не используется
+  RSA.vcxproj -> E:\PSU\Items\Cryptography\RSA\x64\Debug\RSA.exe
